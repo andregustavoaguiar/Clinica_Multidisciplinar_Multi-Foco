@@ -8,11 +8,11 @@
 </div>
 <br>
 <div align="center">
-  <img loading="lazy" src="https://img.shields.io/badge/apoiadores%20%20-3-yellow?style=flat"/>
-  <img loading="lazy" src="https://img.shields.io/badge/Versão: %20%20-v4.0.1-red?style=flate"/>
-  <img loading="lazy" src="https://img.shields.io/badge/Seja-Bem%20Vindo-orange?style=flat"/>
-  <img loading="lazy" src="https://img.shields.io/badge/Em processo de %20criação-blue?style=flat"/>
-  <img loading="lazy" src="https://img.shields.io/badge/último commit%20%20-030624-lightgreen?style=flat"/>                           <!-- mudar o ultimo commit -->
+  <img loading="lazy" src="https://img.shields.io/badge/apoiadores%20%20-3-yellow?style=flat" alt="badges apoiadores">
+  <img loading="lazy" src="https://img.shields.io/badge/Versão: %20%20-v4.0.1-red?style=flate" alt="badges versão">
+  <img loading="lazy" src="https://img.shields.io/badge/Seja-Bem%20Vindo-orange?style=flat" alt="badges seja bem vindo">
+  <img loading="lazy" src="https://img.shields.io/badge/Em processo de %20criação-blue?style=flat" alt="badges em processo de criação">
+  <img loading="lazy" src="https://img.shields.io/badge/último commit%20%20-040624-lightgreen?style=flat" alt="badges ultimo commit">                           <!-- mudar o ultimo commit -->
 </div>
 <hr>
 <!--Espaços criados para as tecnologia estão com caractere espaço em branco -->
@@ -22,15 +22,15 @@
 
 </div>
 <div align="center">
-<img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />‎ ‎ ‎ ‎ 
-<img width=50 heigth=50 src="https://yt3.googleusercontent.com/ZpRyBvODc2Rit7G_sIPeX8g48vW3ZQVzXrEKRpkfUImCXMCgsEve_mmujJo5xbiGFz9EeJx6Hw=s900-c-k-c0x00ffffff-no-rj" />‎ ‎ ‎ ‎ 
-<img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />‎ ‎ ‎ ‎ 
-<img width=50 heigth=50 src="https://cdn-icons-png.flaticon.com/256/732/732220.png" />‎ ‎ ‎ ‎ 
+<img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="logo CANVA">‎ ‎ ‎ ‎ 
+<img width=50 heigth=50 src="https://yt3.googleusercontent.com/ZpRyBvODc2Rit7G_sIPeX8g48vW3ZQVzXrEKRpkfUImCXMCgsEve_mmujJo5xbiGFz9EeJx6Hw=s900-c-k-c0x00ffffff-no-rj" alt="logo BRMODELO">‎ ‎ ‎ ‎ 
+<img width=50 heigth=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="logo POSTGRESQL" >‎ ‎ ‎ ‎ 
+<img width=50 heigth=50 src="https://cdn-icons-png.flaticon.com/256/732/732220.png" alt="logo EXCEL">‎ ‎ ‎ ‎ 
 </div>        
 <hr>
 <br>
 <div align="center">
-  <img src="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/imagens/Clinica%20Multi-Foco.gif" alt="logo Multi-foco">
+  <img src="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/logo%20animado%20Multi-Foco.gif?raw=true" alt="logo animado Multi-foco">
 </div> 
 <br><br>
 
@@ -75,16 +75,16 @@ O objetivo principal do projeto é identificar uma deficiência no meu ambiente/
 Os arquivos estão discriminados da seguinte forma:
 <ol>
   <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/Roteiro_de_Aprendizagem_preenchido.pdf">Roteiro de Aprendizagem:</a> Este é o questionário proposto pelo Tutor,   preenchido para a conclusão do projeto.</li>
-  <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/Levantamento%20de%20requisitos%20-%20projeto_clinicaMultidisciplinar.pdf">Levantamento de Requisitos:</a> Este arquivo apresenta a clínica como se já estivesse criada e eu levanto os     requisitos para a criação do banco. Neste arquivo contém a missão, valores, infraestrutura da clínica. O levantamento de requisitos e minhas avaliações com o proposto.</li>
-  <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/modelagem%20conceitual%20clinica%20multi_foco.png">Modelagem Conceitual:</a> A partir do levantamento de requisitos, é criado o modelo conceitual utilizando a ferramenta BRMODELO.</li>
-  <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/modelagem%20logica%20clinica%20multi_foco.png">Modelagem Lógica:</a> A partir do modelo conceitual, é criado o modelo lógico também pela ferramenta BRMODELO.</li>
+  <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/levantamento_de_requisitos-clinica_multi-foco.pdf">Levantamento de Requisitos:</a> Este arquivo apresenta a clínica como se já estivesse criada e o levantamento dos requisitos para a criação do banco. Neste arquivo contém a missão, valores, infraestrutura da clínica. O levantamento de requisitos e minhas avaliações com o proposto.</li>
+  <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/Modelagem_conceitual%20-%20projeto_clinicaMultidisciplinar.png">Modelagem Conceitual:</a> A partir do levantamento de requisitos, é criado o modelo conceitual utilizando a ferramenta BRMODELO.</li>
+  <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/Modelagem_logica%20-%20projeto_clinicaMultidisciplinar.png">Modelagem Lógica:</a> A partir do modelo conceitual, é criado o modelo lógico também pela ferramenta BRMODELO.</li>
   <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/tree/main/dicionarios%20-%20projeto_clinicaMultidisciplinar">Dicionário de dados:</a> A partir do modelagem lógica, é criado o Dicionário de dados contendo o Dicionário de atributos e o de Relacionamentos. Os dois foram criados pelo excel e exportados para PDF</li>
   <li>Modelagem Física e Excel: A partir do modelo lógico, é criado o modelo físico gerado pela ferramenta BRMODELO. Neste projeto, utilizei a ferramenta PGADMIN 4 - PostgreSQL:  
     <ul>
       <li><a href="#instalacao">Instalação do PGAdmimn e criação do Database:</a> Logo abaixo, apresento instruções detalhadas sobre como instalar e usar a ferramenta PGAdmin para criar e gerenciar bancos de dados.  </li>
-      <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/modelagem_fisica%20-%20projeto_clinicaMultidisciplinar.sql">Script de Criação do Banco:</a> Arquivo SQL com o script para criação do banco de dados.</li>
-      <li><a href="LINK_PARA_O_ARQUIVO_DE_ABASTECIMENTO">Script de Abastecimento das Tabelas:</a> Arquivo SQL com instruções para inserir dados nas tabelas.</li>      
-      <li><a href="LINK_PARA_O_ARQUIVO_DE_CONSULTA">Script de Consulta:</a> Arquivo SQL com consultas SQL para realizar buscas no banco de dados.</li>
+      <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/criacao_das_tabelas-%20projeto_clinicaMultidisciplinar.sql">Script de Criação das tabelas no Banco:</a> Arquivo SQL com o script para criação das tabelas no Banco de dados.</li>
+      <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/exemplos_dados_povoar-projeto_clinicaMultidisciplinar.sql">Script de Abastecimento das Tabelas:</a> Arquivo SQL com instruções ficticias para inserir dados nas tabelas. Se prefereir há uma explicacao logo abaixo de como abastecer as tabelas.</li>      
+      <li><a href="LINK_PARA_O_ARQUIVO_DE_CONSULTA">Script de Consulta:</a> Arquivo SQL com possíveis consultas SQL para realizar buscas no banco de dados.</li>
     </ul>
   </li>
 </ol>
@@ -139,13 +139,13 @@ No psql: <br>
 baixe o arquivo disponibilizado e utilize o comando <br> 
 ``` 
 psql -U seu_usuario -d clinica_exemplo -f caminho/para/seu_arquivo.sql
-```
+``` 
 
 No pgAdmin: <br>
 <ul>
   <li>Navegue até o Database clinica_exemplo para criar as linhas. </li>
   <li>Acessar o Editor SQL. Clique com o botão direito no Database clinica_exemplo e selecione Query Tool (Ferramenta de Consulta)</li>
-  <li>Copie e cole os comandos SQL fornecidos para criação das tabelas:  <a href="">Script para abastecimento das tabelas</a><br> e execute o script ▶️. </li>
+  <li>Copie e cole os comandos SQL fornecidos para criação das tabelas:  <a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/exemplos_dados_povoar-projeto_clinicaMultidisciplinar.sql">Script para abastecimento das tabelas</a><br> e execute o script ▶️. </li>
 </ul>
 
 Agora está pronto para prosseguir com teste e consultas ao banco de dados. 👍
@@ -172,9 +172,9 @@ Após a execução desses comandos, você estará pronto para utilizar o banco d
 Se você deseja contribuir para este projeto, siga estas etapas:
 
 1. Faça um fork do repositório
-2. Crie uma nova branch (`git checkout -b feature/nome-da-funcionalidade`)
-3. Faça commit das suas mudanças (`git commit -am 'Adicionando uma nova funcionalidade'`)
-4. Faça push para a branch (`git push origin feature/nome-da-funcionalidade`)
+2. Crie uma nova branch (```git checkout -b feature/nome-da-funcionalidade```)
+3. Faça commit das suas mudanças (```git commit -am 'Adicionando uma nova funcionalidade'```)
+4. Faça push para a branch (```git push origin feature/nome-da-funcionalidade```)
 5. Crie um novo Pull Request
 <br>
 
@@ -206,7 +206,7 @@ Obrigado! ❤️
 
 ## Contato
 
-Para mais informações ou dúvidas sobre o projeto, entre em contato comigo por e-mail em <a href="mailto:aggaguiar@gmail.com" target="_black"><img height="20" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"></a> ou pelas redes sociais em minha bio, aqui no <a href="https://github.com/andregustavoaguiar" target="_black"><img height="20" width="100" src="https://img.shields.io/badge/Github-100000?style=plastic&logo=github&logoColor=white"></a>. 
+Para mais informações ou dúvidas sobre o projeto, entre em contato comigo por e-mail em <a href="mailto:aggaguiar@gmail.com" target="_black"><img height="20" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="logo gmail"></a> ou pelas redes sociais em minha bio, aqui no <a href="https://github.com/andregustavoaguiar" target="_black"><img height="20" width="100" src="https://img.shields.io/badge/Github-100000?style=plastic&logo=github&logoColor=white" alt="logo github"></a>. 
 
 
 
