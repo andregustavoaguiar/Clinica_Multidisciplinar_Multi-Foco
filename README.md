@@ -13,7 +13,7 @@
   <img loading="lazy" src="https://img.shields.io/badge/Versão: %20%20-v4.0.1-red?style=flate" alt="badges versão">
   <img loading="lazy" src="https://img.shields.io/badge/Seja-Bem%20Vindo-orange?style=flat" alt="badges seja bem vindo">
   <img loading="lazy" src="https://img.shields.io/badge/Em processo de %20criação-blue?style=flat" alt="badges em processo de criação">
-  <img loading="lazy" src="https://img.shields.io/badge/último commit%20%20-040624-lightgreen?style=flat" alt="badges ultimo commit">                           <!-- mudar o ultimo commit -->
+  <img loading="lazy" src="https://img.shields.io/badge/último commit%20%20-050624-lightgreen?style=flat" alt="badges ultimo commit">                           <!-- mudar o ultimo commit -->
 </div>
 <hr>
 <!--Espaços criados para as tecnologia estão com caractere espaço em branco -->
@@ -93,7 +93,7 @@ Os arquivos estão discriminados da seguinte forma:
 <hr>
 <br>
 
-<p id="instalacao" ></p>
+<p id="instalacao" ></p>                              <!-- instalacao-->
 
 ## 🛠️ Instalação e Uso do PGAdmin
 
@@ -117,7 +117,7 @@ Nomeie o Banco de Dados como clinica_exemplo
 Agora está pronto para prosseguir com a criação das tabelas. 👍
 
 <br>
-<p id="criacao" ></p>
+<p id="criacao" ></p>                              <!-- criacao-->
 
 ## 🛠️ Criação das tabelas
 
@@ -134,7 +134,8 @@ No pgAdmin:<br>
 Agora está pronto para prosseguir com o abastecimento das tabelas. 👍
 
 <br>
-<p id="abastecimento" ></p>
+
+<p id="abastecimento" ></p>                      <!-- abastecimento-->
 
 ## 🛠️ Abastecimento das tabelas (linhas) 
 
@@ -154,7 +155,7 @@ No pgAdmin: <br>
 Agora está pronto para prosseguir com teste e consultas ao Banco de Dados. 👍
 
 <br>
-<p id="consultas" ></p>
+<p id="consultas" ></p>                          <!-- consultas-->
 
 ## 🔍 Possiveis consultas ao Banco de Dados 
 
@@ -209,7 +210,7 @@ Este projeto está licenciado sob os termos da Licença Customizada (MIT-style).
 
 ### Agradecimentos Acadêmicos
 🎓 Agradeço à Universidade Estácio de Sá e ao tutor Mauro Matias por fornecer os recursos e oportunidades necessárias para a realização deste projeto. <br>
-👫 Agradeço aos colegas de turma, que me ajudaram a avaliar este projeto. Essa rede de apoio presente foi essêncial para melhoria constante do mesmo.  
+👫 Agradeço aos colegas de turma, que ajudaram a avaliar este projeto. A rede de apoio presente foi essêncial para as minhas evoluções proprias e técnicas.   
 
 ### Agradecimentos Técnicos
 🛠️ Este projeto foi desenvolvido com a ajuda de várias ferramentas e recursos, incluindo o ChatGPT da OpenAI, que forneceu assistência para resolver questões textuais, técnicas específicas de como utilizar as plataformas e otimizar o design do banco de dados. <br>
