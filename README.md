@@ -82,9 +82,9 @@ Os arquivos estão discriminados da seguinte forma:
   <li>Modelagem Física e Excel: A partir do modelo lógico, é criado o modelo físico gerado pela ferramenta BRMODELO. Neste projeto, utilizei a ferramenta PGADMIN 4 - PostgreSQL:  
     <ul>
       <li><a href="#instalacao">Instalação do PGAdmimn e criação do Database:</a> Logo abaixo, apresento instruções detalhadas sobre como instalar e usar a ferramenta PGAdmin para criar e gerenciar bancos de dados.  </li>
-      <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/criacao_das_tabelas-%20projeto_clinicaMultidisciplinar.sql">Script de Criação das tabelas no Banco:</a> Arquivo SQL com o script para criação das tabelas no Banco de dados.</li>
-      <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/exemplos_dados_povoar-projeto_clinicaMultidisciplinar.sql">Script de Abastecimento das Tabelas:</a> Arquivo SQL com instruções ficticias para inserir dados nas tabelas. Se prefereir há uma explicacao logo abaixo de como abastecer as tabelas.</li>      
-      <li><a href="LINK_PARA_O_ARQUIVO_DE_CONSULTA">Script de Consulta:</a> Arquivo SQL com possíveis consultas SQL para realizar buscas no banco de dados.</li>
+      <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/criacao_das_tabelas-%20projeto_clinicaMultidisciplinar.sql">Script de Criação das tabelas no Banco:</a> Arquivo SQL com o script para criação das tabelas no Banco de dados.</li> Se prefereir há uma explicacao logo abaixo de <a href="#criacao">como criar as tabelas</a>.</li>      
+      <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/exemplos_dados_povoar-projeto_clinicaMultidisciplinar.sql">Script de Abastecimento das Tabelas:</a> Arquivo SQL com instruções ficticias para inserir dados nas tabelas. Se prefereir há uma explicacao logo abaixo de <a href="#abastecer">como abastecer as tabelas</a>.</li>      
+      <li><a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/possiveis_consultas-projeto_clinicaMultidisciplinar.sql">Script de Consulta:</a> Arquivo SQL com possíveis consultas SQL para realizar buscas ao Banco de dados. Se prefereir há uma explicacao logo abaixo de <a href="#consultas">como realizar consultas ao Banco de dados</a>.</li>
     </ul>
   </li>
 </ol>
@@ -116,6 +116,7 @@ Nomeie o banco de dados como clinica_exemplo
 Agora está pronto para prosseguir com a criação das tabelas. 👍
 
 <br>
+<p id="criacao" ></p>
 
 ## 🛠️ Criação das tabelas
 
@@ -132,6 +133,7 @@ No pgAdmin:<br>
 Agora está pronto para prosseguir com o abastecimento das tabelas. 👍
 
 <br>
+<p id="abastecimento" ></p>
 
 ## 🛠️ Abastecimento das tabelas (linhas) 
 
@@ -151,11 +153,22 @@ No pgAdmin: <br>
 Agora está pronto para prosseguir com teste e consultas ao banco de dados. 👍
 
 <br>
+<p id="consultas" ></p>
+
+## 🔍 Possiveis consultas ao Banco de dados 
+
+No terminal psql: <br>
+Copie e cole os scripts das consultas no psql: <a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/possiveis_consultas-projeto_clinicaMultidisciplinar.sql">Script de consultas ao Banco</a>
+
+No pgAdmin:<br>
+<ul>
+  <li>Navegue até o Database clinica_exemplo para realizar consultas ao Banco de dados. </l1>
+  <li>Acessar o Editor SQL. Clique com o botão direito no Database clinica_exemplo e selecione Query Tool (Ferramenta de Consulta)</li>
+  <li>Passo 3: Copie e cole os comandos SQL fornecidos para realizar consultas ao Banco de dados:  <a href="https://github.com/andregustavoaguiar/Clinica_Multidisciplinar_Multi-Foco/blob/main/possiveis_consultas-projeto_clinicaMultidisciplinar.sql">Script de consultas ao Banco</a><br> e execute o script ▶️.</li>
+</ul>
 
 
-
-
-
+<br><br>
 
 
 
